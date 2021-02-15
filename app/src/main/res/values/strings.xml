@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="titulo">Calculadora</string>
+    <string name="etPrimerNumero">Agregue el primer numero</string>
+    <string name="etSegundoNumero">Agregue el segundo numero</string>
+    <string name="btnSuma">+</string>
+    <string name="btnResta">-</string>
+    <string name="btnMultiplicar">x</string>
+    <string name="btnDividir">/</string>
+</resources>
